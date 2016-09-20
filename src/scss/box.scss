@@ -40,7 +40,12 @@
     -webkit-justify-content:center;
     justify-content: center;
 }
-
+@mixin flex-justify-around(){  //平均分布
+    -webkit-box-pack:justify;
+    -moz-justify-content:space-around;
+    -webkit-justify-content:space-around;
+    justify-content: space-around;
+}
 @mixin flex-align(){ //上下居中
     -webkit-box-align:center;
     -moz-align-items:center;
