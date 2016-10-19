@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "gulp"
   },
-  "author": "",
+  "author": "qq1737752975",
   "license": "ISC",
   "devDependencies": {
     "babel-loader": "^6.2.4",
